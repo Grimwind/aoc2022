@@ -1,0 +1,19 @@
+    'B'             'B' 'S'        
+    'M'             'P' 'L' 'B' 'J'
+    'D'     'R'     'V' 'D' 'Q' 'D'
+    'T' 'R' 'Z'     'H' 'H' 'G' 'C'
+    'P' 'W' 'J' 'B' 'J' 'F' 'J' 'S'
+'N' 'S' 'Z' 'V' 'M' 'N' 'Z' 'F' 'M'
+'W' 'Z' 'H' 'D' 'H' 'G' 'Q' 'S' 'W'
+'B' 'L' 'Q' 'W' 'S' 'L' 'J' 'W' 'Z'
+ 1   2   3   4   5   6   7   8   9 
+
+new Stack<char>(new char[] {'B', 'W', 'N'}),
+new Stack<char>(new char[] {'L', 'Z', 'S', 'P', 'T', 'D', 'M', 'B'}),
+new Stack<char>(new char[] {'Q', 'H', 'Z', 'W', 'R'}),
+new Stack<char>(new char[] {'W', 'D', 'V', 'J', 'Z', 'R'}),
+new Stack<char>(new char[] {'S', 'H', 'M', 'B'}),
+new Stack<char>(new char[] {'L', 'G', 'N', 'J', 'H', 'V', 'P', 'B'}),
+new Stack<char>(new char[] {'J', 'Q', 'Z', 'F', 'H', 'D', 'L', 'S'}),
+new Stack<char>(new char[] {'W', 'S', 'F', 'J', 'G', 'Q', 'B'}),
+new Stack<char>(new char[] {'Z', 'W', 'M', 'S', 'C', 'D', 'J'}),
